@@ -1,0 +1,4 @@
+interface:
+  display_name: "03 Wadiz Reference Researcher"
+  short_description: "Research current Wadiz story patterns"
+  default_prompt: "Use $wadiz-reference-researcher to extract current Wadiz story flow, proof density, visual rhythm, and mobile readability patterns."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "08 Current Slop Validator"
+  short_description: "Validate against current slop taxonomy"
+  default_prompt: "Use $current-slop-validator to return PASS/FAIL JSON against the current dated slop taxonomy."

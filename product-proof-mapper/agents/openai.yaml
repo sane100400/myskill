@@ -1,0 +1,4 @@
+interface:
+  display_name: "04 Product Proof Mapper"
+  short_description: "Map sections to proof asset IDs"
+  default_prompt: "Use $product-proof-mapper to map every Wadiz section to concrete proof asset IDs or [TODO: source needed]."

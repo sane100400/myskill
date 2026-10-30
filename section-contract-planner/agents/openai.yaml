@@ -1,0 +1,4 @@
+interface:
+  display_name: "05 Section Contract Planner"
+  short_description: "Create proof-led section contracts"
+  default_prompt: "Use $section-contract-planner to create Wadiz section contracts with proof IDs, roles, and failure conditions."

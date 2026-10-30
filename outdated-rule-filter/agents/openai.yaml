@@ -1,0 +1,4 @@
+interface:
+  display_name: "02 Outdated Rule Filter"
+  short_description: "Deprecate stale anti-slop rules"
+  default_prompt: "Use $outdated-rule-filter to mark stale anti-slop rules as deprecated and keep only current structural signals."

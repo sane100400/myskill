@@ -1,0 +1,4 @@
+interface:
+  display_name: "09 Final Human Review Checklist"
+  short_description: "Review subtle visual judgment gaps"
+  default_prompt: "Use $final-human-review-checklist to create the final human visual review checklist after automated validation passes."

@@ -1,0 +1,14 @@
+interface:
+  display_name: 쿠팡 리뷰 작성기
+  short_description: 내 실사용 메모의 말투를 살려 자연스러운 쿠팡 상품평 작성
+  default_prompt: 쿠팡 상품 링크와 내가 적은 실제 사용 메모를 바탕으로, 내 표현과 호흡을 최대한 남긴 자연스러운 상품평을 작성해줘.
+    고정된 장단점 템플릿은 쓰지 마.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

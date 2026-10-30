@@ -1,0 +1,4 @@
+interface:
+  display_name: "07 Codex Implementation Guard"
+  short_description: "Block coding until gates pass"
+  default_prompt: "Use $codex-implementation-guard to decide whether HTML/CSS is allowed after taxonomy, proof, section, and validation gates pass."

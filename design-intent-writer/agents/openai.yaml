@@ -1,0 +1,4 @@
+interface:
+  display_name: "06 Design Intent Writer"
+  short_description: "Define product-specific visual intent"
+  default_prompt: "Use $design-intent-writer to define product-specific visual language before layout or implementation."

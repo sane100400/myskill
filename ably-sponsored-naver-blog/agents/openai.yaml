@@ -1,0 +1,14 @@
+interface:
+  display_name: 에이블리 네이버 블로그
+  short_description: 체험단·수익성 리뷰를 자연스럽고 근거 있게 작성
+  default_prompt: 미션 자료와 사용자의 실제 경험을 근거별로 구분해 에이블리 네이버 블로그 원고를 작성하거나 수정해 주세요. 확인되지
+    않은 경험은 만들지 마세요.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  allow_implicit_invocation: true
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
